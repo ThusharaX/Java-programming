@@ -7,7 +7,7 @@
 import java.util.Scanner;
 
 public class Exercise4 {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         int number, evenCount = 0, oddCount = 0, count = 0;
 
         Scanner myScanner = new Scanner(System.in);

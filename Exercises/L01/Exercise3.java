@@ -7,7 +7,7 @@
 import java.util.Scanner;
 
 public class Exercise3 {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         int max = 0, min = 0, num = 0, count = 1;
 
         Scanner myScanner = new Scanner(System.in);

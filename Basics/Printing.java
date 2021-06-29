@@ -1,5 +1,5 @@
 public class Printing {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         // Print without newline
         System.out.print("Thushara");
 
