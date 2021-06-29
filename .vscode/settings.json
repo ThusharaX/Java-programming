@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "Basics",
+        "Basics/Classes",
+        "Basics/Constructors",
+        "Basics/GettersAndSetters",
+        "Basics/Inheritance",
+        "Exercises/L01",
+        "Exercises/L02",
+        "Exercises/L03",
+        ""
+    ]
+}
