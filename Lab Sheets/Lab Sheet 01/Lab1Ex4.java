@@ -6,6 +6,7 @@
     
     You must use “switch –case” statement.
     Display “Invalid Day” when some invalid value is provided.
+    Message “Good Bye” must appear at last
 */
 
 import java.util.Scanner;   // Import the Scanner class
@@ -21,6 +22,7 @@ public class Lab1Ex4 {
         System.out.print("Value of the day : ");
         day = myScanner.nextInt();
 
+        System.out.print("Day of the week : ");
         switch (day) {
             case 1:
                 System.out.println("Monday");
@@ -47,6 +49,8 @@ public class Lab1Ex4 {
             default:
                 System.out.println("Invalid Day");
         }
+
+        System.out.println("Good Bye!");
     }
 }
 
