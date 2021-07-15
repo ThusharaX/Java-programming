@@ -9,46 +9,42 @@
     Message “Good Bye” must appear at last
 */
 
-import java.util.Scanner;   // Import the Scanner class
-
 public class Lab1Ex4 {
     public static void main(String[] args) {
 
-        int day;
-        
-        // Create a Scanner object
-        Scanner myScanner = new Scanner(System.in);
+        int dayNumber = 4;
+        String day;
 
-        System.out.print("Value of the day : ");
-        day = myScanner.nextInt();
+        System.out.println("Value of the day : " + dayNumber);
 
-        System.out.print("Day of the week : ");
-        switch (day) {
+        switch (dayNumber) {
             case 1:
-                System.out.println("Monday");
+                day = "Monday";
                 break;
             case 2:
-                System.out.println("Tuesday");
+                day = "Tuesday";
                 break;
             case 3:
-                System.out.println("Wednesday");
+                day = "Wednesday";
                 break;
             case 4:
-                System.out.println("Thursday");
+                day = "Thursday";
                 break;
             case 5:
-                System.out.println("Friday");
+                day = "Friday";
                 break;
             case 6:
-                System.out.println("Saturday");
+                day = "Saturday";
                 break;
             case 7:
-                System.out.println("Sunday");
+                day = "Sunday";
                 break;
 
             default:
-                System.out.println("Invalid Day");
+                day = "Invalid Day";
         }
+
+        System.out.println("Day of the week : " + day);
 
         System.out.println("Good Bye!");
     }
