@@ -17,7 +17,7 @@
 ![GitHub labels](https://img.shields.io/github/labels/ThusharaX/Java-programming/help%20wanted)
 ![GitHub](https://img.shields.io/github/license/ThusharaX/Java-programming)
 
-![Java-programming](https://socialify.git.ci/ThusharaX/Java-programming/image?description=1&forks=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FThusharaX%2FBinaryMatter-assets%2Fmain%2FYTlogoRound-withBorder.png%3Ftoken%3DALMALZ2MQXGTXIKTKAVDJXTA5YAOQ&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+![Java-programming](https://socialify.git.ci/ThusharaX/Java-programming/image?description=1&forks=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FBinaryMatter%2FBinaryMatter.github.io%2Fgh-pages%2FlogoRoundwithBorder.png&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
 - 🌱 This is a repository for Java programming related questions.
 - 👯 Everyone is welcome to contribute.
