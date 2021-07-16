@@ -26,12 +26,5 @@
 
 Thanks goes to these wonderful people :heart:
 
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/ThusharaX"><img src="https://avatars2.githubusercontent.com/u/47711719?s=400&v=4" width="100px;" alt=""/>
-        <br/>
-        <sub><b>ThusharaX</b></sub></a>
-        <br/>
-        </td>
-    </tr>
-</table>
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
