@@ -27,4 +27,14 @@
 Thanks goes to these wonderful people :heart:
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/ThusharaX">
+            <img src="https://avatars.githubusercontent.com/u/47711719?v=4" width="100(px);" alt="ThusharaX"/>
+            <br />
+            <sub><b>Thushara Thiwanka</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
