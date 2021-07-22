@@ -36,6 +36,13 @@ Thanks goes to these wonderful people :heart:
             <br />
             <sub><b>Thushara Thiwanka</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/pasindulakshan">
+            <img src="https://avatars.githubusercontent.com/u/74607482?v=4" width="100(px);" alt="pasindulakshan"/>
+            <br />
+            <sub><b>Pasindu Lakshan</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
