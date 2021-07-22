@@ -5,6 +5,7 @@
 ### This project need a **star** ⭐ from you ♥
 <br>
 
+[![.github/workflows/main.yml](https://github.com/ThusharaX/Java-programming/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/ThusharaX/Java-programming/actions/workflows/main.yml)
 ![GitHub top language](https://img.shields.io/github/languages/top/ThusharaX/Java-programming)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ThusharaX.Java-programming)
 ![GitHub forks](https://img.shields.io/github/forks/ThusharaX/Java-programming?style=social)
