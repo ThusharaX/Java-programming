@@ -5,7 +5,7 @@
 ### This project need a **star** ⭐ from you ♥
 <br>
 
-![GitHub top language](https://img.shields.io/github/languages/top/ThusharaX/Java-programming)
+![GitHub top Language](https://img.shields.io/github/languages/top/ThusharaX/Java-programming)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ThusharaX.Java-programming)
 ![GitHub forks](https://img.shields.io/github/forks/ThusharaX/Java-programming?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/ThusharaX/Java-programming)
