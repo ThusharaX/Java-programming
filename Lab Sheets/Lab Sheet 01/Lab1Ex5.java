@@ -14,7 +14,7 @@
     * * * * *
 */
 
-public class Lab1Ex5 {
+class Lab1Ex5 {
     public static void main(String[] args) {
         
         int column = 0;

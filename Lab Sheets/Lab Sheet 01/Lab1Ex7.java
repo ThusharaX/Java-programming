@@ -2,7 +2,7 @@
     Declare two integer variables to store the numbers to be added.
 */
 
-public class Lab1Ex7 {
+class Lab1Ex7 {
     public static void main(String[] args) {
         
         // Declare two integer variables to store the numbers to be added or find average.

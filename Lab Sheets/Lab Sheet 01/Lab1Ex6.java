@@ -8,7 +8,7 @@
 
 */
 
-public class Lab1Ex6 {
+class Lab1Ex6 {
     public static void main(String[] args) {
 
         int column = 0;
