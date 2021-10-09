@@ -50,13 +50,5 @@ Thanks goes to these wonderful people :heart:
             <sub><b>Sahan Punchihewa</b></sub>
         </a>
     </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/kavindu-chethani">
-            <img src="https://avatars.githubusercontent.com/u/46352484?v=4" width="100(px);" alt="kavindu-chethani"/>
-            <br />
-            <sub><b>Kavindu Chethani</b></sub>
-        </a>
-    </td></tr>
 </table>
 <!-- readme: contributors -end -->
