@@ -44,13 +44,20 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/chetanbhasney02">
+            <img src="https://avatars.githubusercontent.com/u/88937980?v=4" width="100(px);" alt="chetanbhasney02"/>
+            <br />
+            <sub><b>chetanbhasney02</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/SahanPunchihewa">
             <img src="https://avatars.githubusercontent.com/u/72688889?v=4" width="100(px);" alt="SahanPunchihewa"/>
             <br />
             <sub><b>Sahan Punchihewa</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/kavindu-chethani">
             <img src="https://avatars.githubusercontent.com/u/46352484?v=4" width="100(px);" alt="kavindu-chethani"/>
