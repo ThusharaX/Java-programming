@@ -2,7 +2,6 @@
 
 <h2><strong>IT 2030 Object Oriented Programming</strong></h2>
 
-### This project need a **star** ⭐ from you ♥
 <br>
 
 ![GitHub top Language](https://img.shields.io/github/languages/top/ThusharaX/Java-programming)
