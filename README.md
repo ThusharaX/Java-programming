@@ -71,5 +71,13 @@ Thanks goes to these wonderful people :heart:
             <sub><b>Kavindu Chethani</b></sub>
         </a>
     </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Randula98">
+            <img src="https://avatars.githubusercontent.com/u/85297495?v=4" width="100(px);" alt="Randula98"/>
+            <br />
+            <sub><b>Randula Yashasmith Mawaththa</b></sub>
+        </a>
+    </td></tr>
 </table>
 <!-- readme: contributors -end -->
