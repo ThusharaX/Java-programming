@@ -78,13 +78,6 @@ Thanks goes to these wonderful people :heart:
             <br />
             <sub><b>Randula Yashasmith Mawaththa</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ShanukaPrabodha">
-            <img src="https://avatars.githubusercontent.com/u/87584158?v=4" width="100(px);" alt="ShanukaPrabodha"/>
-            <br />
-            <sub><b>Shanuka Prabodha</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
