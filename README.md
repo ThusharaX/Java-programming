@@ -58,20 +58,27 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ShanukaPrabodha">
+            <img src="https://avatars.githubusercontent.com/u/87584158?v=4" width="100(px);" alt="ShanukaPrabodha"/>
+            <br />
+            <sub><b>Shanuka Prabodha</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ImgBotApp">
             <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="100(px);" alt="ImgBotApp"/>
             <br />
             <sub><b>Imgbot</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/kavindu-chethani">
             <img src="https://avatars.githubusercontent.com/u/46352484?v=4" width="100(px);" alt="kavindu-chethani"/>
             <br />
             <sub><b>Kavindu Chethani</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Randula98">
             <img src="https://avatars.githubusercontent.com/u/85297495?v=4" width="100(px);" alt="Randula98"/>
