@@ -51,17 +51,17 @@ Thanks goes to these wonderful people :heart:
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/chetanbhasney02">
-            <img src="https://avatars.githubusercontent.com/u/88937980?v=4" width="100(px);" alt="chetanbhasney02"/>
-            <br />
-            <sub><b>Chetanbhasney02</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ShanukaPrabodha">
             <img src="https://avatars.githubusercontent.com/u/87584158?v=4" width="100(px);" alt="ShanukaPrabodha"/>
             <br />
             <sub><b>Shanuka Prabodha</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/chetanbhasney02">
+            <img src="https://avatars.githubusercontent.com/u/88937980?v=4" width="100(px);" alt="chetanbhasney02"/>
+            <br />
+            <sub><b>Chetanbhasney02</b></sub>
         </a>
     </td>
     <td align="center">
