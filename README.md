@@ -85,6 +85,13 @@ Thanks goes to these wonderful people :heart:
             <br />
             <sub><b>Randula Yashasmith Mawaththa</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ShehaniHettiarachchi">
+            <img src="https://avatars.githubusercontent.com/u/88665593?v=4" width="100(px);" alt="ShehaniHettiarachchi"/>
+            <br />
+            <sub><b>Shehani Hettiarachchi</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
